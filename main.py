@@ -44,7 +44,7 @@ class ImageCreator:
       self.sample_char()
       self.debug_print()
       self.font_putter()
-    self.img.save('./test.png')
+    self.img.save('./texture.png')
     
 if __name__ == '__main__':
   img = ImageCreator()
