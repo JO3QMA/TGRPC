@@ -136,3 +136,21 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+fonts/Koruri-Bold.ttf
+fonts/Koruri-Extrabold.ttf
+fonts/Koruri-Light.ttf
+fonts/Koruri-Regular.ttf
+fonts/Koruri-Semibold.ttf
+fonts/RuneAMN_CircuitSolderL1_1.20200926.otf
+fonts/RuneAMN_KnifeA_1.20171016.otf
+fonts/RuneAMN_KnifeAr_1.20150703.otf
+fonts/RuneAMN_PixelArtic_sans_5x8_b0_1.20170510.otf
+fonts/RuneAMN_PixelArtic_sans_5x8_b40_1.20170510.otf
+fonts/RuneAMN_Sans_1.20171016.otf
+fonts/RuneAMN_SansHumanicLike_1.20150703.otf
+fonts/RuneAMN_SansSl_1.20210117.otf
+fonts/RuneAMN_Serif_1.20171016.otf
+
+# img
+*.png
+!texture_sample.png
